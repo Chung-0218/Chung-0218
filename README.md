@@ -1,10 +1,10 @@
 # 👋 About Me  
-사용자의 관점에서 **도메인 특화 AI**를 연구하고 구현하는 전문가입니다.
+I am an AI Researcher and Engineer who designs and implements Domain-Specialized AI from the user's perspective.
 
 ---
 
 ## 🎯 My Goal
-LLM과 생성형 AI 기술을 바탕으로, **사용자와 도메인의 실제 문제를 이해하고 해결하는 AI**를 만드는 것
+My goal is to build AI based on LLM and Generative AI technologies that understand and solve Real-World Problems faced by Users and within Specific Domains.
 
 
 ## 🚀 Tech Stack  
