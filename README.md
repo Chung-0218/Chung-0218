@@ -1,4 +1,4 @@
-### 👋 About Me  
+# 👋 About Me  
 사용자의 관점에서 도메인 특화 AI를 연구하고 구현하는 전문가입니다.
 
 ---
@@ -14,7 +14,7 @@
 - **Domain-Specialized LLM**
 
 
-# 📚 Academic & Research Background
+## 📚 Academic & Research Background
 
 - ⚙️ **Research Intern**, SmartLabs  
   *(Oct 2023 – Feb 2025)*  
