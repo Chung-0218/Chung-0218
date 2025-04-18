@@ -1,10 +1,10 @@
 # 👋 About Me  
-I am an AI Researcher and Engineer who designs and implements Domain-Specialized AI from the user's perspective.
+I am an **AI Researcher and Engineer** who designs and implements **Domain-Specialized AI** from the **user's perspective.**
 
 ---
 
 ## 🎯 My Goal
-My goal is to build AI based on LLM and Generative AI technologies that understand and solve Real-World Problems faced by Users and within Specific Domains.
+My goal is to build AI based on **LLM and Generative AI** that **Understand and Solve Real-World Problems faced by Users** and within **Specific Domains.**
 
 
 ## 🚀 Tech Stack  
