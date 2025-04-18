@@ -8,7 +8,7 @@ LLM과 생성형 AI 기술을 바탕으로, **사용자와 도메인의 실제 �
 
 
 ## 🚀 Tech Stack  
-`Python` · `PyTorch` · `HuggingFace` · `LLM` · `RAG` · `PEFT` · `Prompt Engineering`
+`Python` · `PyTorch` · `HuggingFace` · `LLM` · `RAG` · `PEFT` · `Prompt Engineering` . `Custom Dataset Construction`
 
 ---
 
