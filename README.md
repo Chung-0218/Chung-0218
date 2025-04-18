@@ -18,8 +18,8 @@
 
 - ⚙️ **Research Intern**, SmartLabs  
   *(Oct 2023 – Feb 2025)*  
-  Participated in **3 National Defense AI Research Projects**, focusing on LLM-based Situation Awareness, Domain-Specific Adaptation, and RAG.  
-  Contributed to the **writing of 4 Academic Papers**, including 2 workshop presentations and 2 KCI-indexed journal publication.
+  Participated in **3 National Defense AI Research Projects** 
+  Contributed to the **writing of 4 Academic Papers**
 
 - 🧠 **M.S. in Artificial Intelligence**, Konkuk University  
   *(Sep 2022 – Feb 2025)*
