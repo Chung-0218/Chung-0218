@@ -9,7 +9,7 @@
 ---
 
 ## 🔬 Research Interests
-- **Situation Awareness AI**
+- **Situation Awareness and Decision-Making AI**
 - **Retrieval-Augmented Generation (RAG)**
 - **Domain-Specialized Large Language Model (LLM)**
 
