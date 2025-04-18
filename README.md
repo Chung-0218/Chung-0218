@@ -3,6 +3,10 @@
 
 ---
 
+## 🎯 My Goal
+사용자의 관점에서 시작해, 의미 있는 AI 경험을 설계합니다.
+
+
 ## 🚀 Tech Stack  
 `Python` · `PyTorch` · `HuggingFace` · `LLM` · `RAG` · `PEFT` · `Prompt Engineering`
 
