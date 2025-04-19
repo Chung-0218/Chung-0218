@@ -31,7 +31,7 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
   
 - 🧠 **M.S. in Artificial Intelligence**, Konkuk University  
   *(Sep 2022 – Feb 2025)*  
-   Participated in **1 Deep Learning Project: Personal Color Diagnostic**
+   Participated in 1 Deep Learning Project: ** Personal Color Diagnostic**
 
 - 📡 **B.S. in Electrical and Electronics Engineering**, Konkuk University  
   *(Mar 2018 – Aug 2022)*  
