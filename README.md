@@ -24,7 +24,7 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
 
 - ⚙️ **Research Intern**, SmartLabs  
   *(Oct 2023 – Feb 2025)*  
-  Participated in **3 National Defense AI Research Projects** and
+  Participated in **3 National Defense AI Research Projects**
   Contributed to the **writing of 4 Academic Papers**
 
 - 🧠 **M.S. in Artificial Intelligence**, Konkuk University  
@@ -33,7 +33,7 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
 
 - 📡 **B.S. in Electrical and Electronics Engineering**, Konkuk University  
   *(Mar 2018 – Aug 2022)*
-  Undergraduate student at Konkuk University's SmartComputing Lab
+  Undergraduate student at Konkuk University's SmartComputing Lab  
   Participated in **2 National Defense AI Research Projects** 
 
 ## 📝 Publications
