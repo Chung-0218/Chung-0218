@@ -13,9 +13,9 @@ My goal is to build AI based on **LLM and Generative AI** that **Understand and 
 ---
 
 ## 🔬 Research Interests
-- **Situation Awareness and Decision Making AI**
-- **Retrieval-Augmented Generation (RAG)**
 - **Domain-Specialized Large Language Model (LLM)**
+- **Retrieval-Augmented Generation (RAG)**
+- **Situation Awareness and Decision Making AI**
 - **Defense AI**
 
 
