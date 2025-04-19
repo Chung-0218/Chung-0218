@@ -45,7 +45,7 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
   [🔗 https://www.earticle.net/Article/A459186]
 
 - **[Battlefield Situation Awareness Using Pretrained Generative LLM]**  
-  *Workshop Presentation, [BigComp 2024], [2024. 02]*  
+  *Presented at [BigComp 2024], [2024. 02]*  
   [🔗 https://ieeexplore.ieee.org/abstract/document/10488214]
 
 - **[...about Prompt Compressing...]**  (Now on publishing)
