@@ -40,7 +40,7 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
   *Presented at [BigComp 2025], [2025. 02]*  
   [🔗 https://ieeexplore.ieee.org/abstract/document/10936898]
 
-- **[Knowledge-Augmented Transformer 모델을 활용한 게임 승부 예측 시스템]**
+- **[Knowledge-Augmented Transformer 모델을 활용한 게임 승부 예측 시스템]**  
   *Published in [INCA 2024], [2024. 12]*  
   [🔗 https://www.earticle.net/Article/A459186]
 
