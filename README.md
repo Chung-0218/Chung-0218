@@ -34,6 +34,24 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
   *(Mar 2018 – Aug 2022)*
 
 
+## 📝 Publications
+
+- **[Time Series Data Classification using the Knowledge-Augmented Transformer Model]**  
+  *Presented at [BigComp 2025], [2025. 02]*  
+  [🔗 https://ieeexplore.ieee.org/abstract/document/10936898]
+
+- **[Knowledge-Augmented Transformer 모델을 활용한 게임 승부 예측 시스템]**
+  *Published in [INCA 2024], [2024. 12]*  
+  [🔗 https://www.earticle.net/Article/A459186]
+
+- **[Battlefield Situation Awareness Using Pretrained Generative LLM]**  
+  *Workshop Presentation, [BigComp 2024], [2024. 02]*  
+  [🔗 https://ieeexplore.ieee.org/abstract/document/10488214]
+
+- **[...about Prompt Compressing...]**  (Now on publishing)
+  *TBD* 
+
+
 <!--
 **Chung-0218/Chung-0218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
