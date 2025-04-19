@@ -25,8 +25,8 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
 - ⚙️ **Research Intern**, SmartLabs  
   *(Oct 2023 – Feb 2025)*  
   Participated in **3 National Defense AI Research Projects**  
-  Contributed to the **writing of 4 Academic Papers**
-
+  Authored **4 Academic Papers**
+  
 - 🧠 **M.S. in Artificial Intelligence**, Konkuk University  
   *(Sep 2022 – Feb 2025)*
    Participated in **1 Personal Color Diagnostic Deep Learning Project**
