@@ -54,7 +54,7 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
   *Presented at [BigComp 2024], [2024. 02]*  
   [🔗 https://ieeexplore.ieee.org/abstract/document/10488214]
 
-- **[...about Prompt Compressing...]**  (Now on publishing)
+- **[...about Prompt Compressing...]**  (Now on publishing)  
   *TBD* 
 
 
