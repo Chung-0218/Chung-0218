@@ -31,7 +31,7 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
   
 - 🧠 **M.S. in Artificial Intelligence**, Konkuk University  
   *(Sep 2022 – Feb 2025)*  
-   Participated in 1 Deep Learning Project: ** Personal Color Diagnostic**
+   Participated in 1 Deep Learning Project: **Personal Color Diagnostic**
 
 - 📡 **B.S. in Electrical and Electronics Engineering**, Konkuk University  
   *(Mar 2018 – Aug 2022)*  
@@ -47,7 +47,7 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
   *[TBD]*
 
 - **[Time Series Data Classification using the Knowledge-Augmented Transformer Model]**  
-  *Presented at [BigComp 2025], [2025. 02], [주저자]*  
+  *Presented at [IEEE BigComp 2025], [2025. 02], [주저자]*  
   [🔗 https://ieeexplore.ieee.org/abstract/document/10936898]
 
 - **[Knowledge-Augmented Transformer 모델을 활용한 게임 승부 예측 시스템]**  
@@ -55,7 +55,7 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
   [🔗 https://www.earticle.net/Article/A459186]
 
 - **[Battlefield Situation Awareness Using Pretrained Generative LLM]**  
-  *Presented at [BigComp 2024], [2024. 02], [주저자]*  
+  *Presented at [IEEE BigComp 2024], [2024. 02], [주저자]*  
   [🔗 https://ieeexplore.ieee.org/abstract/document/10488214]
 
 
