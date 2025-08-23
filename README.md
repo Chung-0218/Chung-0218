@@ -43,19 +43,19 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
 ## 📝 Publications
 
 - **[LLM의 효율적인 추론 가속을 위한 Context Filtering 기법 연구]**  
-  *Published in [INCA 2025], [2025. 06]*  
+  *Published in [INCA 2025], [2025. 06], [주저자]*  
   *[TBD]*
 
 - **[Time Series Data Classification using the Knowledge-Augmented Transformer Model]**  
-  *Presented at [BigComp 2025], [2025. 02]*  
+  *Presented at [BigComp 2025], [2025. 02], [주저자]*  
   [🔗 https://ieeexplore.ieee.org/abstract/document/10936898]
 
 - **[Knowledge-Augmented Transformer 모델을 활용한 게임 승부 예측 시스템]**  
-  *Published in [INCA 2024], [2024. 12]*  
+  *Published in [INCA 2024], [2024. 12], [2저자]*  
   [🔗 https://www.earticle.net/Article/A459186]
 
 - **[Battlefield Situation Awareness Using Pretrained Generative LLM]**  
-  *Presented at [BigComp 2024], [2024. 02]*  
+  *Presented at [BigComp 2024], [2024. 02], [주저자]*  
   [🔗 https://ieeexplore.ieee.org/abstract/document/10488214]
 
 
