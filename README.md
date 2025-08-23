@@ -10,7 +10,8 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
 ---
 
 ## 🚀 Tech Stack  
-`Python` · `PyTorch` · `HuggingFace` · `LLM` · `RAG` · `PEFT` · `Prompt Engineering` . `Custom Dataset Construction`
+`Python` · `PyTorch` · `Data Preprocessing`, `HuggingFace` · `LLM` · `RAG` · `Fine-tuning` · `Prompt Engineering` · `Agent`  ·  `LangGraph`
+
 
 ---
 
