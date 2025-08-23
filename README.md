@@ -25,7 +25,7 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
 
 ## 📚 Academic & Research Background
 
-- ⚙️ **Research Intern**, SmartLabs  
+- ⚙️ **Research Engineer (Intern)**, SmartLabs  
   *(Oct 2023 – Feb 2025)*  
   Participated in **3 National Defense AI Research Projects**  
   Authored **4 Academic Papers**
