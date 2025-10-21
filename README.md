@@ -25,8 +25,11 @@ I am an **AI Researcher and Engineer** who designs and implements **Domain-Speci
 
 ## 📚 Academic & Research Background
 
+- 📫 **Ph.D. in Artificial Intelligence**, Konkuk University  
+  *(Mar 2025 – Aug 2025)*  
+
 - ⚙️ **Research Engineer (Intern)**, SmartLabs  
-  *(Oct 2023 – Feb 2025)*  
+  *(Oct 2023 – May 2025)*  
   Participated in **3 National Defense AI Research Projects**  
   Authored **4 Academic Papers**
   
