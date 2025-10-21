@@ -1,5 +1,5 @@
 # 👋 About Me  
-I am an **AI Researcher and Engineer** who designs and implements **Domain-Specialized AI** from the **User's Perspective.**
+I am an **AI Researcher and Engineer** who designs and implements **Decision-Making AI** from the **User's Perspective.**
 
 ---
 
